@@ -25,7 +25,7 @@
 
 ### GitHub 统计
 
-<a href="https://github.com/lc-cn">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lc-cn&show_icons=true&theme=default&include_all_commits=true&count_private=false" alt="stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lc-cn&layout=compact&theme=default" alt="langs" />
-</a>
+
+![](https://komarev.com/ghpvc/?username=lc-cn&color=blue)
+<!-- This service is currently experiencing issues and is temporarily disabled. -->
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=lc-cn)
